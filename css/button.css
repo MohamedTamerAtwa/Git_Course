@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+background-color: blueviolet;
+    height: 2000px;
+}
+
+button{
+    position: fixed;
+    right: 30px;
+    bottom: 50px;
+    visibility: hidden;
+}
